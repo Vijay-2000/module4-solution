@@ -19,7 +19,7 @@ Hello Frank
 Hello Larry
 Hello Paula
 Hello Laura
-Good Bye Jim
+Good Bye Tim
 
 WARNING!!! WARNING!!!
 The code does NOT currently work! It is YOUR job to make it work
@@ -35,7 +35,7 @@ WARNING!!! WARNING!!!
 // (Note, Step 2 will be done in the SpeakHello.js file.)
 (function () {
 
-var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Tim"];
 
 // STEP 10: (NOTHING TO DO. ALREADY DONE FOR YOU)
 // Loop over the names array and say either 'Hello' or "Good Bye"
